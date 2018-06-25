@@ -10,3 +10,6 @@ Install Python3 and Flask<br>
 
 Then you can start your server<br>
 `python3 UNSWtalk.py`
+
+You can find accounts(zid) and related passwords at /static/dataset-medium/zid/student.txt<br>
+
